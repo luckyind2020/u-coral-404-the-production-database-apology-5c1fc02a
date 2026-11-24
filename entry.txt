@@ -1,0 +1,1 @@
+Sorry — I deleted the production database: fourteen years of data, gone in 0.4 seconds. The backups lived on the same server, so at least the loss was thorough. My ticket was in the database.
